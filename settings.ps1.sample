@@ -1,0 +1,4 @@
+#edit settings and rename this file settings.ps1
+
+$pathToDB = "c:\path\to\POR\POR.MDB"
+$pathToCSVOutput = 'c:\path\tp\temp\por-wordpress-products.csv'
