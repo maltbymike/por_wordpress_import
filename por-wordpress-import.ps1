@@ -1,5 +1,5 @@
 #include settings file
-. .settings.ps1
+. "$PSScriptRoot\settings.ps1"
 
 $Query = "
     SELECT
